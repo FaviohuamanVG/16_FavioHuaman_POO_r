@@ -11,8 +11,8 @@ package S07_16_FavioHuaman;
  */
 public class Main_07_16_FavioHuaman {
     public static void main(String[] args) {
-        Persona1 per1 = new Persona1();
-        Persona2 per2 = new Persona2();
+        Persona1_16 per1 = new Persona1_16();
+        Persona2_16 per2 = new Persona2_16();
         
         per1.per1("Maria", 21);
         per1.saludar();
