@@ -23,5 +23,10 @@ public class Persona1 {
         System.out.println("Hola, soy " +this.nombre +" mi edad es " +this.edad);
         
     }
+    public void cumplirAnios() {
+        // Incrementa la edad en un año
+        this.edad++;
+        System.out.println("¡Feliz cumpleaños! Ahora tengo " + this.edad + " años.");
+    }
     
 }
